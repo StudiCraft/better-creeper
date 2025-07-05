@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 61,
+    "description": "Enhances creepers with a dramatic 3-stage color progression (green → orange → red) during their fuse sequence. Each phase features multiple texture variants for smooth visual transitions, making explosive encounters more intense and visually engaging. Client-side only, performance optimized."
+  }
+}
