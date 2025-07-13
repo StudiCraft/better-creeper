@@ -46,12 +46,13 @@
   "workspaceSettings": {
     "modid": "bettercreeper",
     "modName": "Better Creeper",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Enhances creepers with a dramatic 3-stage color progression (green → orange → red) during their fuse sequence. Each phase features multiple texture variants for smooth visual transitions, making explosive encounters more intense and visually engaging. Client-side only, performance optimized.",
     "author": "StudiCraft",
     "websiteURL": "https://youtube.com/@StudiCraft",
     "license": "Apache License version 2.0",
     "serverSideOnly": false,
+    "modPicture": "186ccf2670afbee3385c6bcf2bb01e8504011774_96",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],
@@ -60,5 +61,5 @@
     "credits": "Nothing To Show",
     "modElementsPackage": "net.mcreator.bettercreeper"
   },
-  "mcreatorVersion": 202500226612
+  "mcreatorVersion": 202500227613
 }

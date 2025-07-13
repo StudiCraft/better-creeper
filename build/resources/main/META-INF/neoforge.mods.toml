@@ -4,9 +4,10 @@ license="Apache License version 2.0"
 
 [[mods]]
 modId="bettercreeper"
-version="1.0.0"
+version="1.0.1"
 displayName="Better Creeper"
 displayURL="https://youtube.com/@StudiCraft"
+logoFile="logo.png"
 credits="Nothing To Show"
 authors="StudiCraft"
 description="Enhances creepers with a dramatic 3-stage color progression (green \u2192 orange \u2192 red) during their fuse sequence. Each phase features multiple texture variants for smooth visual transitions, making explosive encounters more intense and visually engaging. Client-side only, performance optimized."
